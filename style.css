@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 10px;
+  
+}
+
+.container{
+    background-color: #eee;
+    border: 1px solid #eee;
+}
+
+.header, .header >p {
+    text-align: center;
+    background-color: #eee;
+    font-size: 20px;
+}
+
+.box{
+    border: 1px solid #ddd ;
+    text-align: center;
+}
+
+.box> img {
+    border-radius: 50%;
+    width: 40%;
+    height: auto;
+}
+
+.box-list{
+    border: 1px solid #ddd;
+}
